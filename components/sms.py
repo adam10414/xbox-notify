@@ -1,3 +1,7 @@
+"""
+This module contains SMS related functions.
+"""
+
 from twilio.rest import Client
 
 from auth.auth import account_sid, auth_token
