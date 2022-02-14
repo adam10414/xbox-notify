@@ -1,0 +1,7 @@
+# Directories
+auth/
+venv/
+.vscode
+
+# misc
+scratch.py
